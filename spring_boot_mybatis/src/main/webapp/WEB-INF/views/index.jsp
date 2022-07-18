@@ -10,8 +10,8 @@
 	<body>
 		<h3>MyBatis 사용</h3>
 		
-		<a href="product/productAllList">전체 상품 조회 수정1</a><br><br>
-		<a href="product/productNewForm">상품 등록2</a><br><br>
+		<a href="product/productAllList">전체 상품 조회 수정</a><br><br>
+		<a href="product/productNewForm">상품 등록</a><br><br>
 
 		
 		<a href="product/productSearchForm1">상품 검색</a><br><br>
